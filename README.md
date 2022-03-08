@@ -2,9 +2,9 @@
 [![NPM Version][npm-image]][npm-url]
 [![node version][node-image]][node-url]
 
-Xogo de guerra de bots
+War game with bots
 
-## Estrutura
+## Structure
 ```
 ./
 ├── src/
@@ -31,7 +31,7 @@ Xogo de guerra de bots
 └── tsconfig.json
 ```
 
-## Dependencias
+## Dependencies
 ### Node
 - `cors` 2.8.5
 - `express` 4.17.1
@@ -43,16 +43,16 @@ Xogo de guerra de bots
 - `eslint` 8.9.0
 - `typescript` 4.5.5
 
-## Isntalar dependencias
+## Install dependencies
 ```
 npm install
 ```
 
-## Compilar e iniciar
+## Compile and starts
 ```
 npm start
 ```
-Abrir no navegador http://localhost:3000/ para visualizar o mapa
+Open in web browser http://localhost:3000/ for map display
 
 [npm-image]: https://img.shields.io/badge/npm-6.14.11-critical
 [npm-url]: https://www.npmjs.com/
