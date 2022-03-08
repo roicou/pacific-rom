@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+}
+td {
+    width: 20px;
+    height: 20px;
+    border: 0.1px dotted #FFF
+}
+
+td.water {
+    background-color: blue;
+}
+
+td.earth {
+    background-color: brown;
+}
+td.cracken {
+    background-color: black;
+}
